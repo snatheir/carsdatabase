@@ -1,0 +1,9 @@
+BMW 3-series
+
+Country of Manufacturing: Germany
+
+Body Type: luxury
+
+MSRP: $32950
+
+Gas Rating (mpg): 36

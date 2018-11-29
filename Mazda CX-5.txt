@@ -1,0 +1,9 @@
+Mazda CX5
+
+Country of Manufacturing: Japan
+
+Body Type: compact SUV
+
+MSRP: $21545
+
+Gas Rating (mpg): 35

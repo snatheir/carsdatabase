@@ -1,0 +1,9 @@
+Ford Escape
+
+Country of Manufacturing: America
+
+Body Type: compact SUV
+
+MSRP: $23450
+
+Gas Rating (mpg): 32

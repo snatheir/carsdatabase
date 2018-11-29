@@ -1,0 +1,9 @@
+Ford Taurus
+
+Country of Manufacturing: America
+
+Body Type: full-size
+
+MSRP: $27055
+
+Gas Rating (mpg): 32

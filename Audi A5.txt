@@ -1,0 +1,9 @@
+Audi A5
+
+Country of Manufacturing: Germany
+
+Body Type: luxury
+
+MSRP: $40000
+
+Gas Rating (mpg): 29

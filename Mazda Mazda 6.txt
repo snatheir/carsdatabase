@@ -1,0 +1,9 @@
+Mazda Mazda 6
+
+Country of Manufacturing: Japan
+
+Body Type: sedan
+
+MSRP: $21190
+
+Gas Rating (mpg): 40

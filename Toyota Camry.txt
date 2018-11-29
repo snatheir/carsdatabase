@@ -1,0 +1,9 @@
+Toyota Camry
+
+Country of Manufacturing: Japan
+
+Body Type: sedan
+
+MSRP: $22970
+
+Gas Rating (mpg): 35

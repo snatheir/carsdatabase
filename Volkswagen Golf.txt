@@ -1,0 +1,9 @@
+Volkswagen Golf
+
+Country of Manufacturing: Germany
+
+Body Type: hatchback
+
+MSRP: $17995
+
+Gas Rating (mpg): 43

@@ -1,0 +1,9 @@
+Volkswagen GTI
+
+Country of Manufacturing: Germany
+
+Body Type: hatchback
+
+MSRP: $25095
+
+Gas Rating (mpg): 32

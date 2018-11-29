@@ -1,0 +1,9 @@
+Mazda Mazda 3
+
+Country of Manufacturing: Japan
+
+Body Type: hatchback
+
+MSRP: $16945
+
+Gas Rating (mpg): 41

@@ -1,0 +1,11 @@
+BMW Z-series
+
+Ranking: 3
+
+Country of Manufacturing: Germany
+
+Body Type: luxury
+
+MSRP: $49250
+
+Gas Rating (mpg): 33

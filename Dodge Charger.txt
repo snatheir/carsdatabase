@@ -1,0 +1,9 @@
+Dodge Charger
+
+Country of Manufacturing: America
+
+Body Type: full-size
+
+MSRP: $26995
+
+Gas Rating (mpg): 31

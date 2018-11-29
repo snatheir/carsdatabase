@@ -1,0 +1,9 @@
+Buick LaCrosse
+
+Country of Manufacturing: America
+
+Body Type: full-size
+
+MSRP: $31065
+
+Gas Rating (mpg): 36

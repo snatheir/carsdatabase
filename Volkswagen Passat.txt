@@ -1,0 +1,9 @@
+Volkswagen Passat
+
+Country of Manufacturing: Germany
+
+Body Type: sedan
+
+MSRP: $21340
+
+Gas Rating (mpg): 44

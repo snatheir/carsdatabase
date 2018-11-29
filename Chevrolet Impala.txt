@@ -1,0 +1,9 @@
+Chevrolet Impala
+
+Country of Manufacturing: America
+
+Body Type: full-size
+
+MSRP: $27060
+
+Gas Rating (mpg): 31

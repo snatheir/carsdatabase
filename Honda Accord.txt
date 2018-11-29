@@ -1,0 +1,9 @@
+Honda Accord
+
+Country of Manufacturing: Japan
+
+Body Type: sedan
+
+MSRP: $22105
+
+Gas Rating (mpg): 36

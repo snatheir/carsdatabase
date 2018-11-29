@@ -1,0 +1,9 @@
+Lexus RC
+
+Country of Manufacturing: Japan
+
+Body Type: luxury
+
+MSRP: $42790
+
+Gas Rating (mpg):67.20

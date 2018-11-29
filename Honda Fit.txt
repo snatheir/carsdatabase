@@ -1,0 +1,9 @@
+Honda Fit
+
+Country of Manufacturing: Japan
+
+Body Type: hatchback
+
+MSRP: $15650
+
+Gas Rating (mpg): 41

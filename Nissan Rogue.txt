@@ -1,0 +1,9 @@
+Nissan Rogue
+
+Country of Manufacturing: Japan
+
+Body Type: compact SUV
+
+MSRP: $23040
+
+Gas Rating (mpg): 33

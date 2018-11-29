@@ -1,0 +1,9 @@
+Mercedes Benz C-class
+
+Country of Manufacturing: Germany
+
+Body Type: luxury
+
+MSRP: $43000
+
+Gas Rating (mpg): 26.14

@@ -1,0 +1,9 @@
+Toyota Corolla
+
+Country of Manufacturing: Japan
+
+Body Type: sedan
+
+MSRP: $16950
+
+Gas Rating (mpg): 42
